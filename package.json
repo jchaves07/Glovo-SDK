@@ -1,0 +1,30 @@
+{
+  "name": "glovo-sdk",
+  "version": "1.0.0",
+  "description": "unofficial Glovo SDK for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchaves07/Glovo-SDK.git"
+  },
+  "keywords": [
+    "Node",
+    "npm",
+    "Glovo-sdk",
+    "Glovo-api",
+    "glovo"
+  ],
+  "author": "Jorge Chaves Ulate",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jchaves07/Glovo-SDK/issues"
+  },
+  "homepage": "https://github.com/jchaves07/Glovo-SDK#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
+  }
+}
