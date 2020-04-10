@@ -1,7 +1,7 @@
 {
   "name": "glovo-sdk",
-  "version": "1.0.0",
-  "description": "unofficial Glovo SDK for NodeJS",
+  "version": "0.1.0",
+  "description": "unofficial Glovo B2B SDK",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,7 @@
   "keywords": [
     "Node",
     "npm",
+    "Glovo-B2B",
     "Glovo-sdk",
     "Glovo-api",
     "glovo"
